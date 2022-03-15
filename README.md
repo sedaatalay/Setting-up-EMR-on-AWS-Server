@@ -1,10 +1,12 @@
 # Setting up EMR on AWS Server
-<p> <br/ >
+<p>  <br />
+</p>
 
 ## 1-Setup
 ## 2-Cluster Creation
 
-<p> <br/ >
+<p>  <br />
+</p>
   
 ### 1-Setup
 #### A- Create ec2 key pair
