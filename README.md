@@ -10,8 +10,8 @@
 #### A- Create ec2 key pair
 ##### -Select the item Create Key Pair.
 ##### -Give your key pair a name and choose:
-“RSA”
-“.pem” 
+##### “RSA”
+##### “.pem” 
 <img width="818" alt="Ekran Resmi 2022-03-15 20 43 13" src="https://user-images.githubusercontent.com/91700155/158467944-9401b138-b1d9-429b-bd7a-6aa365d06c99.png">
 
 
