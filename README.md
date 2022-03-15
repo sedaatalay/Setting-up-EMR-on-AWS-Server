@@ -125,7 +125,7 @@ yarn cluster -lnl
 ``` 
 <img width="1013" alt="Ekran Resmi 2022-03-15 21 46 52" src="https://user-images.githubusercontent.com/91700155/158468870-7220b6ab-1155-444c-bd3f-b1a0902843f4.png">
   
-##### To see the yarn command.
+###### To see the yarn command.
 ```console
 yarn
 ``` 
