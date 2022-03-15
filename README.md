@@ -26,11 +26,14 @@
 
 ##### S3 General Configuration
 <img width="1025" alt="Ekran Resmi 2022-03-15 20 50 45" src="https://user-images.githubusercontent.com/91700155/158467989-ee4391fa-ab87-4519-b0ce-b2ace256c166.png">
+
 ##### To open Public Access
 <img width="1012" alt="Ekran Resmi 2022-03-15 20 51 42" src="https://user-images.githubusercontent.com/91700155/158468061-38667f8f-22b4-4634-8701-e07c63837ca9.png">
+
 ##### We can create folder to keep i.e. logs, data..
 <img width="1371" alt="Ekran Resmi 2022-03-15 20 56 39" src="https://user-images.githubusercontent.com/91700155/158468102-a6a83915-9e1e-4378-bad1-99a911790608.png">
 <img width="666" alt="Ekran Resmi 2022-03-15 20 57 50" src="https://user-images.githubusercontent.com/91700155/158468144-bd6d2d22-6150-4d20-a864-106829cf3bdd.png">
+
 ##### The folder has been created.
 <img width="1138" alt="Ekran Resmi 2022-03-15 21 00 05" src="https://user-images.githubusercontent.com/91700155/158469652-0aab4c71-3b7f-4c84-a044-1900a5c87084.png">
 
@@ -47,10 +50,12 @@
 <img width="872" alt="Ekran Resmi 2022-03-15 21 07 02" src="https://user-images.githubusercontent.com/91700155/158468312-bdaf6ec8-cdd2-472f-82c4-550e8fef9f61.png">
 
 ##### Step-1
+
 ###### For the section titled Software Configuration select the in the picture following options.
 <img width="886" alt="Ekran Resmi 2022-03-15 21 08 43" src="https://user-images.githubusercontent.com/91700155/158468331-d67088ee-2541-4156-8bf4-6f685f491ed4.png">
 
 ##### Step-2
+
 ###### For the Hardware Configuration select the following options. 
 Choose the VPC configuration with a Single Public Subnet which is "yousefVPC"
 <img width="927" alt="Ekran Resmi 2022-03-15 21 11 20" src="https://user-images.githubusercontent.com/91700155/158468361-0ca4a78f-a600-4cb8-abea-dd6dfeb524bf.png">
