@@ -58,7 +58,7 @@
 ##### Step-2
 
 ###### For the Hardware Configuration select the following options. 
-Choose the VPC configuration with a Single Public Subnet which is "yousefVPC"
+###### Choose the VPC configuration with a Single Public Subnet which is "yousefVPC"
 <img width="927" alt="Ekran Resmi 2022-03-15 21 11 20" src="https://user-images.githubusercontent.com/91700155/158468361-0ca4a78f-a600-4cb8-abea-dd6dfeb524bf.png">
 
 ###### You can remove the auto-termination. That means you can shut the cluster what ever time you want. The other way the cluster will be terminated 1 (changeable) hours.
