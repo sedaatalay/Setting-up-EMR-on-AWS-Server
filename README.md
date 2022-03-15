@@ -73,7 +73,7 @@
 ##### Step-4
 
 ###### Security Options for Ec2 Key Pair choose choose EC2 key-pair you created earlier.
-Click Create Cluster.
+###### Click Create Cluster.
 <img width="849" alt="Ekran Resmi 2022-03-15 21 20 05" src="https://user-images.githubusercontent.com/91700155/158468532-ff1a63ac-238d-4b71-867a-581c12a210e0.png">
 
   
