@@ -8,16 +8,17 @@
   
 ### 1-Setup
 #### A- Create ec2 key pair
--Select the item Create Key Pair.
--Give your key pair a name and choose:
+##### -Select the item Create Key Pair.
+##### -Give your key pair a name and choose:
 “RSA”
 “.pem” 
 <img width="818" alt="Ekran Resmi 2022-03-15 20 43 13" src="https://user-images.githubusercontent.com/91700155/158467944-9401b138-b1d9-429b-bd7a-6aa365d06c99.png">
 
 
 #### B- Create S3 bucket
--Open the AWS console and navigate to the S3 service.
--Select Create Bucket.
+##### -Open the AWS console and navigate to the S3 service.
+##### -Select Create Bucket.
+  
 ##### S3 General Configuration
 <img width="1025" alt="Ekran Resmi 2022-03-15 20 50 45" src="https://user-images.githubusercontent.com/91700155/158467989-ee4391fa-ab87-4519-b0ce-b2ace256c166.png">
 ##### To open Public Access
@@ -31,8 +32,8 @@
 
 ### 2- Cluster Creation
 #### A- Launch EMR Cluster
--Open the AWS console and navigate to the EMR service.
--Select Create Cluster.
+##### -Open the AWS console and navigate to the EMR service.
+##### -Select Create Cluster.
 <img width="904" alt="Ekran Resmi 2022-03-15 21 06 28" src="https://user-images.githubusercontent.com/91700155/158468249-5b0762e2-73a2-4f7e-a2b8-cf06255b68d1.png">
   
 ##### Select Go to advanced options.
