@@ -19,6 +19,7 @@
 ##### -Open the AWS console and navigate to the S3 service.
 ##### -Select Create Bucket.
   
+<p> <br/ >  
 ##### S3 General Configuration
 <img width="1025" alt="Ekran Resmi 2022-03-15 20 50 45" src="https://user-images.githubusercontent.com/91700155/158467989-ee4391fa-ab87-4519-b0ce-b2ace256c166.png">
 ##### To open Public Access
@@ -35,7 +36,8 @@
 ##### -Open the AWS console and navigate to the EMR service.
 ##### -Select Create Cluster.
 <img width="904" alt="Ekran Resmi 2022-03-15 21 06 28" src="https://user-images.githubusercontent.com/91700155/158468249-5b0762e2-73a2-4f7e-a2b8-cf06255b68d1.png">
-  
+
+<p> <br/ >
 ##### Select Go to advanced options.
 <img width="872" alt="Ekran Resmi 2022-03-15 21 07 02" src="https://user-images.githubusercontent.com/91700155/158468312-bdaf6ec8-cdd2-472f-82c4-550e8fef9f61.png">
 
