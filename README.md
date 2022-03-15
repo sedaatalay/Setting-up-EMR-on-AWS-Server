@@ -104,7 +104,7 @@ Add a rule that allows SSH Anywhere or Your IP
 ```console
 ssh -i <your key pair> hadoop@<emr master public dns address>
 ```
-###### For me:
+###### E.g.:
 ```console
 chmod 400 mykeypair-emr.pem
 ssh -i /Users/sedaatalay/Desktop/mykeypair-emr.pem hadoop@ec2-35-158-132-255.eu-central-1.compute.amazonaws.com
