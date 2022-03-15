@@ -23,6 +23,7 @@
   
 <p>  <br />
 </p>
+
 ##### S3 General Configuration
 <img width="1025" alt="Ekran Resmi 2022-03-15 20 50 45" src="https://user-images.githubusercontent.com/91700155/158467989-ee4391fa-ab87-4519-b0ce-b2ace256c166.png">
 ##### To open Public Access
@@ -58,11 +59,13 @@ Choose the VPC configuration with a Single Public Subnet which is "yousefVPC"
 <img width="961" alt="Ekran Resmi 2022-03-15 21 13 45" src="https://user-images.githubusercontent.com/91700155/158468379-23a12095-fbdd-4941-9889-a55bebb67e93.png">
 
 ##### Step-3
+
 ###### Where do you keep your log files? We will choose the log file which is created in S3 folder.
 <img width="1015" alt="Ekran Resmi 2022-03-15 21 15 34" src="https://user-images.githubusercontent.com/91700155/158471305-358e05c0-db5f-4042-8d75-dc1ef12e8901.png">
 <img width="839" alt="Ekran Resmi 2022-03-15 21 18 35" src="https://user-images.githubusercontent.com/91700155/158468417-d3ca6ec4-e4d6-4a91-baeb-e03673178eaf.png">
 
 ##### Step-4
+
 ###### Security Options for Ec2 Key Pair choose choose EC2 key-pair you created earlier.
 Click Create Cluster.
 <img width="849" alt="Ekran Resmi 2022-03-15 21 20 05" src="https://user-images.githubusercontent.com/91700155/158468532-ff1a63ac-238d-4b71-867a-581c12a210e0.png">
@@ -74,6 +77,7 @@ Click Create Cluster.
 
 
 #### B- SSH Into The Cluster
+
 ##### In the “Summary” tab, scroll down to the “Security and access” section and select the security group shown for Security Group for Master. 
 <img width="1122" alt="Ekran Resmi 2022-03-15 21 29 06" src="https://user-images.githubusercontent.com/91700155/158468600-399e082e-009c-429b-9746-66e1046479c9.png">
 
@@ -89,6 +93,7 @@ Add a rule that allows SSH Anywhere or Your IP
 
 ##### Click on Connect to the Master Node Using SSH
 <img width="782" alt="Ekran Resmi 2022-03-15 21 38 59" src="https://user-images.githubusercontent.com/91700155/158468784-63c795df-8835-4bea-ad01-7c2904c5bc91.png">
+
 ##### Shell on your local machine
 ```console
 ssh -i <your key pair> hadoop@<emr master public dns address>
